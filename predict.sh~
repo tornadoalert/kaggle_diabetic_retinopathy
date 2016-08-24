@@ -1,0 +1,4 @@
+#/bin/bash
+python convert.py --crop_size 512 --convert_directory test_resized/ --extension jpeg --directory test/ &
+jupyter-notebook notebooks/Sample_prediction.ipynb 
+echo "Opened notebook"
