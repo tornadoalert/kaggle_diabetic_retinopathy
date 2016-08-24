@@ -1,4 +1,4 @@
-# Kaggle Diabetic Retinopathy Solution.
+# Diabetic Retinopathy Predictor
 
 1.Replace the images in test/ 
 
